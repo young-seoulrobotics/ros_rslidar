@@ -1,8 +1,8 @@
-<library path="lib/libdriver_nodelet">
+<library path="lib/librsdriver_nodelet">
   <class name="rslidar_driver/DriverNodelet"
          type="rslidar_driver::DriverNodelet"
          base_class_type="nodelet::Nodelet">
-    <description> 
+    <description>
       Publish raw rslidar data packets.
     </description>
   </class>
